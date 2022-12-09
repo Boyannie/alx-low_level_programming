@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdio.h>
+#include <unistd.h>
 /**
  * main - starting point
  * Return: Always 1 (success)
