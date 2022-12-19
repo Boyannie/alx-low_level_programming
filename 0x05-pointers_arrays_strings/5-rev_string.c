@@ -1,10 +1,11 @@
-#innclude "main.h"
+#include "main.h"
 
 /**
  * rev_string - reverses a string.
  * @s: input string.
- * Return: no return.
+ * Return: Always 0.
  */
+
 void rev_string(char *s)
 {
 	int count = 0, i, j;
