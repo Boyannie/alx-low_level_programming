@@ -1,3 +1,8 @@
+/*
+ * File: 1-memcpy.c
+ * Auth: sam tech
+ */
+
 #include "main.h"
 
 /**
