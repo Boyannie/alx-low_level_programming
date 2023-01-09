@@ -4,15 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 
-/**
- * _putchar - Entry point
- * @s: input
- * @accept: input
- * Return: Always 0 (Success)
- */
- 
-
 int _putchar(char c)
 {
-	return putchar(c);
+	return (_putchar(c));
 }
