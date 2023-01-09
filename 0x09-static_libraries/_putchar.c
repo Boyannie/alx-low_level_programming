@@ -5,13 +5,14 @@
 #include <string.h>
 
 /**
- * _strspn - Entry point
+ * _putchar - Entry point
  * @s: input
  * @accept: input
  * Return: Always 0 (Success)
  */
+ 
 
-void _puts(char *s)
+int _putchar(char c)
 {
-	puts(s);
+	return putchar(c);
 }
